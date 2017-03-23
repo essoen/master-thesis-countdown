@@ -1,0 +1,20 @@
+.react-count-down .date {
+  font-size: 60px;
+  font-weight: 700;
+  color: #666;
+  font-family: 'Oswald', monospace;
+}
+
+.react-count-down .subtitle {
+    font-size: 25px;
+    font-family: 'Oswald', monospace;
+    color: #666;
+    text-align: center;
+}
+
+.react-count-down .subsubtitle {
+    font-size: 15px;
+    font-family: 'Oswald', monospace;
+    color: #666;
+    text-align: center;
+}
